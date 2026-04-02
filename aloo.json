@@ -1,0 +1,11 @@
+{
+  "name": "My IPA Collection",
+  "apps": [
+    {
+      "name": "Your App Name",
+      "version": "1.0",
+      "ipa": "https://files.catbox.moe/319uph.ipa",
+      "description": "Direct Catbox link for eSign"
+    }
+  ]
+}

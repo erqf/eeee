@@ -1,0 +1,20 @@
+{
+  "name": "Alo",
+  "identifier": "com.hipsterwhale.crossy",
+  "apps": [
+    {
+      "name": "Alo",
+      "bundleIdentifier": "com.example.yourapp",
+      "version": "1.2.3",
+      "versionDate": "2026-04-02",
+      "downloadURL": "https://files.catbox.moe/319uph.ipa",
+      "size": 12345678,
+      "developerName": "Your Name",
+      "localizedDescription": "Pandora",
+      "iconURL": "https://raw.githubusercontent.com/yourusername/your-repo/main/icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
+      ]
+    }
+  ]
+}
